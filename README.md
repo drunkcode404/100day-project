@@ -8,6 +8,8 @@
 - PM: git flow start, develop/feature branch 생성 -> how to git flow(블로그 링크)
 - CREW: repository fork, develop/feature branch 생성
 
+<hr>
+
 ## Day 2
 ### 프로젝트 주요 기획 구성	
 ### 레퍼런스 서칭
@@ -24,4 +26,7 @@
 	- [아이즈매거진](http://www.eyesmag.com/)
 	- [https://hypebeast.kr/](https://hypebeast.kr/) 
 
+## Day 3
 ### 로고 시안 제작
+### Business modeling
+
