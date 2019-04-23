@@ -26,7 +26,12 @@
 	- [아이즈매거진](http://www.eyesmag.com/)
 	- [https://hypebeast.kr/](https://hypebeast.kr/) 
 
+<hr>
+
 ## Day 3
 ### 로고 시안 제작
 ### Business modeling
 
+## Day 4
+### instagram lunching img
+### BI font test 
